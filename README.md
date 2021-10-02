@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alialirezaee1
 - 👀 I’m interested in solve puzzle, programming and IA technology
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Beanworks company
 
 <!---
